@@ -2,7 +2,7 @@
     "name": "mdjnelson/moodle-mod_customcert",
     "type": "moodle-mod",
     "require": {
-        "moodle/moodle": ">= 4.1"
+        "moodle/moodle": "4.1 - 5.0"
     },
     "require-dev": {
         "slevomat/coding-standard": "~8.0"
