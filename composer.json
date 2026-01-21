@@ -2,6 +2,7 @@
     "name": "mdjnelson/moodle-mod_customcert",
     "type": "moodle-mod",
     "require": {
+        "moodle/composer-installer": "*",
         "moodle/lms": ">= 4.5"
     },
     "require-dev": {
